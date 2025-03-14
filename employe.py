@@ -4,7 +4,7 @@ class Employee():
         print("Employee created")
         
     def __del__(self):
-        print("DEstructer called")
+        print("Destructer called")
         
 
 def Create_obj():
